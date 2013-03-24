@@ -1,0 +1,9 @@
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\Web-Scrape.Test.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\Web-Scrape.Test.pdb
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\Web-Scrape.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\xunit.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\Web-Scrape.pdb
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\bin\Debug\xunit.xml
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\obj\Debug\Web-Scrape.Test.csprojResolveAssemblyReference.cache
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\obj\Debug\Web-Scrape.Test.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape.Test\obj\Debug\Web-Scrape.Test.pdb

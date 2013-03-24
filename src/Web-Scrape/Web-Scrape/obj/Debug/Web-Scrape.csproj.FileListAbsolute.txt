@@ -1,0 +1,5 @@
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape\bin\Debug\Web-Scrape.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape\bin\Debug\Web-Scrape.pdb
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape\obj\Debug\Web-Scrape.csprojResolveAssemblyReference.cache
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape\obj\Debug\Web-Scrape.dll
+C:\Github\Web-Scrape\src\Web-Scrape\Web-Scrape\obj\Debug\Web-Scrape.pdb

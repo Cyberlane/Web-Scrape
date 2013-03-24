@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Scrape", "Web-Scrape\Web-Scrape.csproj", "{5D6D5F0A-1D61-4CF6-A059-37CDBF4AAB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Scrape.Test", "Web-Scrape.Test\Web-Scrape.Test.csproj", "{99BA4414-B441-49D3-8AE6-66CE8B51D0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D6D5F0A-1D61-4CF6-A059-37CDBF4AAB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6D5F0A-1D61-4CF6-A059-37CDBF4AAB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6D5F0A-1D61-4CF6-A059-37CDBF4AAB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6D5F0A-1D61-4CF6-A059-37CDBF4AAB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BA4414-B441-49D3-8AE6-66CE8B51D0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BA4414-B441-49D3-8AE6-66CE8B51D0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BA4414-B441-49D3-8AE6-66CE8B51D0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BA4414-B441-49D3-8AE6-66CE8B51D0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
